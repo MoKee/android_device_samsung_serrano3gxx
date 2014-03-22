@@ -12,10 +12,6 @@
     "target_path": "device/samsung/msm8930-common"
   },
   {
-    "repository": "android_vendor_samsung_serrano3gxx",
-    "target_path": "vendor/samsung/serrano3gxx"
-  },
-  {
     "repository": "android_device_samsung_serrano-common",
     "target_path": "device/samsung/serrano-common"
   },
