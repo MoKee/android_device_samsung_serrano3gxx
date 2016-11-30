@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_samsung_serrano3gxx",
+    "target_path": "vendor/samsung/serrano3gxx"
+  },
+  {
     "repository": "android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common"
   },
